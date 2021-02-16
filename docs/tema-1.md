@@ -20,21 +20,51 @@ El director financiero toma decisiones de inversión y de financiación:
 
 Nos dedicaremos a la **estructura financiera**, también llamada estructura de capital. {++Nos dará una combinación óptima de recursos óptimos y recursos ajenos.++}
 
-??? note "Conceptos a granel"
-    - **Equilibrio rentabilidad riesgo:** la rentabilidad es la *capacidad de generar rendimientos*. Se mide por la esperanza matemática. El riesgo es la *posibilidad de no obtener la rentabilidad esperada*. Se mide por la varianza o por la desviación típica.
-    - **Riesgo y diversificación:** los activos reales crean riesgo económico[^1], que ^^se evalúa en términos de variabilidad de los beneficios^^. El riesgo financiero se origina por la forma de financiación. Depende de las decisiones del director financiero.
-    - **Valor del dinero en el tiempo:**
-    - **Tesorería vs beneficio:**
-    - **Flujos incrementales:**
-    - **Mercados de productos competitivos:**
-    - **Mercados de capitales eficientes:**
-    - **Directivos-accionistas:**
-        - Remuneración
-        - Reputación
-        - Actitud ante el riesgo
-        - Crecimiento de la empresa
-    - **No neutralidad de los impuestos:**
+## Conceptos
+
+- **Equilibrio rentabilidad riesgo:** la rentabilidad es la *capacidad de generar rendimientos*. Se mide por la esperanza matemática. El riesgo es la *posibilidad de no obtener la rentabilidad esperada*. Se mide por la varianza o por la desviación típica.
+- **Riesgo y diversificación:** los activos reales crean riesgo económico[^1], que ^^se evalúa en términos de variabilidad de los beneficios^^. El riesgo financiero se origina por la forma de financiación. Depende de las decisiones del director financiero.
+- **Valor del dinero en el tiempo:** basado en la premisa de que cualquier agente económico prefiere un dinero hoy que un dinero en el futuro. *Vale más una unidad monetaria hoy que una unidad monetaria mañana*.
+- **Tesorería vs beneficio:** aunque haya muchos beneficios, si en un momento no tenemos tesorería y hay que hacer frente a obligaciones de pago, la empresa se va a pique.
+- **Flujos incrementales:** <span class="red"> repasar esto, ha dado rodeos</span>
+- **Mercados de productos competitivos:** cualquier mercado es competitivo si existe una cantidad muy grande de compradores y vendedores. Ninguno de ellos por separado no puede influir en el precio del producto.
+- **Mercados de capitales eficientes:** el precio del mercado de un título es una estimación correcta del valor teórico o intrínseco del título. El precio del mercado de un título es su precio de cotización, es el precio al que se compra y se vende. El valor teórico o intrínseco es el valor actual de todos los flujos que genera ese título. En un mercado ineficiente se produce el efecto del **arbitraje**, por el que se ajustan los precios y el mercado se vuelve eficiente.
+    - {++Otro aspecto de la eficiencia es la información++}: toda la información debe ser correcta y a disposición de todos.
+        - `Eficiencia débil` - los precios de los títulos reflejan toda la información histórica de esos títulos
+        - `Eficiencia intermedia` - los precios de los títulos reflejan además la información publicada
+        - `Eficiencia fuerte` - los precios de los títulos reflejan además la información privada
+- **Directivos-accionistas:** un accionista quiere dividendos, el director financiero quiere maximizar el valor de la empresa. Teoría financiera de la agencia.
+- **No neutralidad de los impuestos:** ==un impuesto es neutral si no distorsiona las decisiones de los agentes económicos. En la realidad los impuestos no son neutrales.==
+
+!!! tip "Beneficios"
+    Siempre hablaremos de beneficios netos, antes de aplicar impuestos.
+
+!!! success "Tipo de Interés"
+    **Tipo de Interés:** tasa de retorno que refleja la relación de una cantidad de dinero en diferentes instantes de tiempo. Se puede considerar también como un coste de oportunidad
+
+    {>>No puedo usar ese dinero mientras lo tengo depositado en el banco<<}
+
+!!! bug "EFE"
+    El director financiero tiene que estar pendiente de la tesorería, ya que aunque la empresa tenga muchos beneficios, si nuestra tesorería es 0 y tenemos que pagar a los proveedores, se va a pique.
+
+    Para ello hay que estar pendiente del `Estado de Flujos de Efectivo`, que recoge todos los cambios de tesorería.
 
 Conceptos nuevos:
 
 - Riesgo económico: riesgo asociado a las operaciones de la empresa, es independiente de su financiación. Se evalúa en términos de variabilidad de los beneficios. Los activos reales (maquinaria) crean riesgo económico. *Ejemplo: Si la empresa fabrica botellas, el **riesgo económico** sería el riesgo de que el mercado ya no demande botellas y la empresa se vaya a pique.*
+
+## Ámbito y objetivo de la dirección financiera de la empresa
+
+### Accionistas vs Partícipes
+
+![img](images/tema-1/dirigir-empresa.png)
+
+- 🟨 **Stakeholders:** partícipes de la empresa (directivos, proveedores, clientes, Hacienda Pública, etc.)
+- 🟦 **Shareholders:** accionistas, propietarios de la empresa
+
+![img](images/tema-1/objetivos.png)
+
+### Ámbito y objetivo
+
+!!! quote "Teoría de la agencia"
+    La empresa es un nexo de contratos entre los partícipes de la empresa.

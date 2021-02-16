@@ -8,7 +8,7 @@ theme:
     - navigation.instant
 
 nav:
-  - DFIN: index.md
+  - Evaluación: index.md
   - Tema 1: tema-1.md
 
 extra_css:
