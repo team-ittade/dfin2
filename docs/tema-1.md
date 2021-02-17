@@ -68,3 +68,31 @@ Conceptos nuevos:
 
 !!! quote "Teoría de la agencia"
     La empresa es un nexo de contratos entre los partícipes de la empresa.
+
+Preeminencia de la creación de valor (limitaciones del beneficio):
+
+- Múltiples periodos. *Ej: considerar 10 años*.
+- Manipulación del beneficio. *Ej: durante un año no hace el mantenimiento durante ese año para aumentar beneficios, lo que generaría problemas a largo plazo porque se romperá la maquinaria*.
+- Riesgo. Se mide por la variabilidad del beneficio.
+- Divergencia de intereses. Los directivos piensan en la creación de valor en la empresa pero los accionistas sólo piensan en los dividendos. También dentro de los accionistas: los mayoritarios quieren aumentar el valor de la empresa (y de sus acciones) y los minoritarios quieren dividendos.
+
+### Creación de valor para los accionistas (shareholders)
+
+- Dificultad de establecer un objetivo corporativo (maximización en múltiples dimensiones).
+- Maximización del valor a largo plazo.
+- El mercado como marco de asignación de recursos. El mercado es el marco de valoración de títulos.
+- Relación entre valor a largo plazo de la empresa y de las acciones.
+
+El mercado primario es el mercado de emisión, en el que se ponen en circulación los títulos de las compañias.
+
+El mercado secundario es donde se compran y se venden los títulos.
+
+### Creación de valor para los partícipes (stakeholders)
+
+- Debilidades del enfoque basado en los accionistas
+- Capital reputacional. El cumplimiento de los contratos crea valor
+- Valor para el accionista y contratos implícitos
+
+### Relación enter ambos enfoques
+
+**En ambos enfoques la creación de valor es una condición necesaria.**
