@@ -8,12 +8,21 @@ theme:
     - navigation.instant
 
 nav:
-  - Evaluación: index.md
+  - Evaluación:
+    - General: evaluacion/index.md
+    - Seminario: evaluacion/seminario.md
   - Tema 1: tema-1/index.md
   - Tema 2:
     - Teoría: tema-2/index.md
     - Ejemplos: tema-2/ejemplos.md
     - Problemas: tema-2/problemas.md
+  - Tema 3:
+    - Índice: tema-3/index.md
+    - 1. Estructura de capital e impuestos: tema-3/3.1.md
+    - 2. Estructura de capital y costes de solvencia: tema-3/3.2.md
+    - 3. Estructura de capital y el modelo de equilibrio de activos financieros: tema-3/3.3.md
+    - 4. Estructura de capital y relaciones de agencia: tema-3/3.4.md
+    - 5. Estructura de capital y opciones: tema-3/3.5.md
 
 repo_name: team-ittade/dfin2
 repo_url: https://github.com/team-ittade/dfin2

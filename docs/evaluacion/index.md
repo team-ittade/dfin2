@@ -9,7 +9,7 @@
 
 |Elemento|Ponderación|Notas|
 |--|--|--|
-|Prácticas y seminarios a hacer|15%|Voluntario[^1]
+|[Prácticas y seminarios a hacer](seminario.md)|15%|Voluntario[^1]
 |Examen final escrito|100%|Dos partes, teoría (test de elección múltiple) y práctica (problemas). Mínimo de 3/10 puntos en cada parte.|
 
 Mismos criterios para la **convocatoria extraordinaria**. La nota continua se mantiene para la extraordinaria.
