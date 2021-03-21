@@ -93,6 +93,6 @@ El mercado secundario es donde se compran y se venden los títulos.
 - Capital reputacional. El cumplimiento de los contratos crea valor
 - Valor para el accionista y contratos implícitos
 
-### Relación enter ambos enfoques
+### Relación entre ambos enfoques
 
 **En ambos enfoques la creación de valor es una condición necesaria.**
