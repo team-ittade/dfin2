@@ -1,6 +1,6 @@
 # Tema 1 - Introducción
 
-![img](images/tema-1/conceptos-y-fundamentos-teoricos.png)
+![img](../images/tema-1/conceptos-y-fundamentos-teoricos.png)
 
 **Funciones de un director financiero de una empresa:**
 
@@ -57,12 +57,12 @@ Conceptos nuevos:
 
 ### Accionistas vs Partícipes
 
-![img](images/tema-1/dirigir-empresa.png)
+![img](../images/tema-1/dirigir-empresa.png)
 
 - 🟨 **Stakeholders:** partícipes de la empresa (directivos, proveedores, clientes, Hacienda Pública, etc.)
 - 🟦 **Shareholders:** accionistas, propietarios de la empresa
 
-![img](images/tema-1/objetivos.png)
+![img](../images/tema-1/objetivos.png)
 
 ### Ámbito y objetivo
 

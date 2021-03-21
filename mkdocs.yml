@@ -9,8 +9,10 @@ theme:
 
 nav:
   - Evaluación: index.md
-  - Tema 1: tema-1.md
-  - Tema 2: tema-2.md
+  - Tema 1: tema-1/index.md
+  - Tema 2:
+    - Teoría: tema-2/index.md
+    - Ejemplos: tema-2/ejemplos.md
 
 repo_name: team-ittade/dfin2
 repo_url: https://github.com/team-ittade/dfin2
