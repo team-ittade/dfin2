@@ -9,8 +9,8 @@ theme:
 
 nav:
   - Evaluación:
-    - General: evaluacion/index.md
-    - Seminario: evaluacion/seminario.md
+    - General: index.md
+    - Seminario: seminario.md
   - Tema 1: tema-1/index.md
   - Tema 2:
     - Teoría: tema-2/index.md
