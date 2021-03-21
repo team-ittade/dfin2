@@ -170,3 +170,53 @@ En 1958 Modigliani y Miller publican un articulo revolucionario.
 - $X$: ==Beneficio==, variable aleatoria
 - $\rho_k$: tasa de descuento o ==coste de capital== (antes llamado $k_T$)
 - $Y_j$: coste de los capitales propios de la empresa j (antes llamado $Y_j$)
+{.magenta}
+
+### `Proposición 1`
+
+!!! quote "Proposición 1"
+    El valor de mercado de la empresa y su coste de capital son independientes de su estructura de capital
+
+En equilibrio, para una empresa j ^^perteneciente a la clase de riesgo k^^, su **valor** debería ser:
+
+$$V_j=S_j+D_j=X_j/\rho_k$$
+
+Si dos empresas de la misma clase de riesgo y mismas estructuras de inversión y diferentes estructuras de capital tuviesen **distinto valor** se crearían {++oportunidades de arbitraje++} en el mercado para los inversiones que les permitirían obtener una ganancia adicional. Estas oportunidades conducirían a recuperar el equilibrio en el mercado.
+
+==El arbitraje se produce de la empresa sobrevalorada de a la infravalorada==
+
+!!! example
+    ![img](../images/tema-2/proposicion-1-ejemplo-1.png)<hr>
+
+    ![img](../images/tema-2/proposicion-1-ejemplo-2.png)
+
+    - k~S~ es un dato que nos dan. `A` retribuye un 10% a los accionistas y `B` un 11%.
+    - S es el valor de mercado de las acciones
+    - `B` está sobrevalorada
+    - El inversor de `B` hace una réplica de su empresa en pequeñito (se endeuda con el 1%)
+    - Mucha gente vende acciones de `B` (baja precio de `B`) y compra acciones de `A` (sube precio de `A`) hasta que se igualen
+    - Crítica: es muy difícil que al inversor de `B` que se mueve a `A` le den un tipo de interés en el banco igual a la empresa `B`.
+    {.red}
+
+!!! example
+    ![img](../images/tema-2/proposicion-1-ejemplo-3.png)
+
+    - Ahora la `A` es la empresa sobrevalorada y se producirá un arbitraje `A→B`
+
+### `Proposición 2`
+
+!!! quote "Proposición 2"
+    La tasa de retorno o rentabilidad de una acción es igual a la tasa de capitalización del flujo de renta de una empresa no endeudada perteneciente a la misma clase de riesgo más una prima por el riesgo financiero, equivalente a multiplicar el ratio de endeudamiento por la diferencia entre la tasa de capitalización anterior y el tipo de interés de la deuda.
+
+En equlibrio, para una empresa j perteneciente a la clase de riesgo k la **rentabiliad de sus acciones** debería ser:
+
+$$i_j=\rho_k+\dfrac{D}{S}(\rho_k-r)$$
+
+### `Proposición 3`
+
+!!! quote "Proposición 3"
+    La tasa de retorno requerida para los proyectos de inversión es independiente del modo en que se financien las inversiones. Es decir, es independiente de la estructura de capital de la empresa
+
+En equilibrio, para una empresa j perteneciente a la clase de riesgo k la **condición de aceptación de los proyectos** debería ser:
+
+$$TR\geq\rho_k$$
