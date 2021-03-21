@@ -35,6 +35,7 @@ markdown_extensions:
   - admonition
   - attr_list
   - codehilite
+  - def_list
   - extra
   - extra
   - footnotes
