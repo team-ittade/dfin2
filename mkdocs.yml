@@ -13,6 +13,7 @@ nav:
   - Tema 2:
     - Teoría: tema-2/index.md
     - Ejemplos: tema-2/ejemplos.md
+    - Problemas: tema-2/problemas.md
 
 repo_name: team-ittade/dfin2
 repo_url: https://github.com/team-ittade/dfin2

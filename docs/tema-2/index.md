@@ -169,7 +169,7 @@ En 1958 Modigliani y Miller publican un articulo revolucionario.
 - $D_j$: valor de mercado de la deuda de la empresa j
 - $X$: ==Beneficio==, variable aleatoria
 - $\rho_k$: tasa de descuento o ==coste de capital== (antes llamado $k_T$)
-- $Y_j$: coste de los capitales propios de la empresa j (antes llamado $Y_j$)
+- $Y_j$: coste de los capitales propios de la empresa j (antes llamado $Y_j$) {>>Extra, las siglas están mal probablemente<<}
 {.magenta}
 
 ### `Proposición 1`
@@ -220,3 +220,35 @@ $$i_j=\rho_k+\dfrac{D}{S}(\rho_k-r)$$
 En equilibrio, para una empresa j perteneciente a la clase de riesgo k la **condición de aceptación de los proyectos** debería ser:
 
 $$TR\geq\rho_k$$
+
+### `Resumen proposiciones`
+
+#### `Proposición I`
+
+En equilibrio, para una empresa j ^^perteneciente a la clase de riesgo k^^, su **valor** debería ser:
+
+$$V_j=S_j+D_j=X_j/\rho_k$$
+
+#### `Proposición II`
+
+En equlibrio, para una empresa j perteneciente a la clase de riesgo k la **rentabiliad de sus acciones** debería ser:
+
+$$i_j=\rho_k+\dfrac{D}{S}(\rho_k-r)$$
+
+#### `Proposición III`
+
+En equilibrio, para una empresa j perteneciente a la clase de riesgo k la **condición de aceptación de los proyectos** debería ser:
+
+$$TR\geq\rho_k$$
+
+### `Valoración`
+
+1. **Modelo de mercado, todo está valorado a precio de mercado.**
+2. Existencia de clases de riesgo (clases de riesgo == sectores)
+3. Estimación subjetiva de flujos de renta
+4. Equilibrio parcial de mercado (equilibrio dentro de cada clase de riesgo, equilibrio por sectores)
+5. Hipótesis de mercados perfectos
+      - El coste de endeudamiento es igual para empresas que para individuos.
+      {.magenta}
+6. No se tienen en cuenta los impuestos y costes de transacción
+7. No se tiene en cuenta la probailidad de quiebra

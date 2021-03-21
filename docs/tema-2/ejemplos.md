@@ -1,3 +1,5 @@
+# Ejemplos tema 2
+
 ## Ejemplo 1
 
 Supongamos una inversión a un año de importe 1.000 euros que reporta un 15% anual exento de impuestos. Para financiar esta inversión utilizamos 650 euros de los fondos propios de la compañía y los 350 restantes de un préstamo al 6% anual.
