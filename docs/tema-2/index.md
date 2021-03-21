@@ -109,4 +109,64 @@ Ahora vemos el riesgo:
 
 ## 3. La posición tradicional
 
+No es una teoría, sólo una mera posición. En 1958 salta por los aires por la publicación de un artículo de *Modigliani* y *Miller*.
+
+Supuestos iniciales:
+
+- Coste del capital ajeno < coste del capital propio (K~D~ < k~S~)
+- K~D~ no siempre es independiente del endeudamiento
+- K~S~ es creciente con respecto al endeudamiento
+
+![img](../images/tema-2/grafica-posicion-tradicional.png)
+
+La curva alcanza el mínimo en el punto `[D/S]*` (**punto de endeudamiento óptimo**), donde se **maximiza** el valor de la empresa.
+
+**Críticas:**
+{.red}
+
+- Indefinición de estructura óptima
+- Supuestos
+    - Imperfecciones de los mercados
+    - Magnitudes conocidas con certeza
+- Carencia de fundamentación teórica
+
 ## 4. Estructura de capital en mercados perfectos: las proposiciones de medigliani y miller
+
+En 1958 Modigliani y Miller publican un articulo revolucionario.
+
+- Aplican el **análisis microeconómico a las finanzas** → introducción del mercado como marco de valoración
+- El **valor** es d**eterminado únicamente por las decisiones de inversión**, por la capacidad de generar renta.
+- La **estructura de capital es irrelevante** y sólo influye en el reparto de los flujos, pero no es su generación.
+- Los **derechos sobre el reparto de rentas no determinan su importe**.
+- ^^Separación entre las decisiones de inversión y financiación^^.
+
+### `Supuestos base`
+
+1. **Mercados perfectos de capitales**
+      1. Información perfecta y acceso sin coste (`mercado eficiente`)
+      2. Costes de transacción nulos
+      3. Títulos infinitamente divisibles
+      4. Comportamiento racional de los inversores
+2. Los beneficios se representan por una variable aleatoria que es posible determinar de forma subjetiva. Los inversores coinciden en su determinación.
+3. Es posible agrupar a las empresas en clases de riesgo o rendimiento empresarial (*modelo de equilibrio parcial*)
+4. No hay **impuestos**.
+
+### `Ideas previas`
+
+- Clases de rendimiento o riesgo empresarial equivalente
+- Modelo de equilibrio parcial de mercado (precio → oferta y demanda)
+- Tasa de descuento que el mercado fija para descontar los flujos
+- El valor es determinado únicamente por las decisiones de inversión
+- La estructura de capital sólo influye en el reparto de los flujos, pero no en su generación
+- Principio de aditividad del valor
+
+### `Terminología nueva`
+
+- $j$: subíndice de empresa
+- $k$: subíndice de clase de riesgo
+- $V_j$: valor de mercado de la empresa j
+- $S_j$: valor de mercado de las acciones de la empresa j
+- $D_j$: valor de mercado de la deuda de la empresa j
+- $X$: ==Beneficio==, variable aleatoria
+- $\rho_k$: tasa de descuento o ==coste de capital== (antes llamado $k_T$)
+- $Y_j$: coste de los capitales propios de la empresa j (antes llamado $Y_j$)
