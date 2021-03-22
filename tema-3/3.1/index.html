@@ -373,6 +373,18 @@
             
   
   
+  
+    <li class="md-nav__item">
+      <a href="../tldr/" class="md-nav__link">
+        TL;DR
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
     
   
   
@@ -383,9 +395,85 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          1. Estructura de capital e impuestos
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         1. Estructura de capital e impuestos
       </a>
+      
+        
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#modelo-del-63" class="md-nav__link">
+    Modelo del 63
+  </a>
+  
+    <nav class="md-nav" aria-label="Modelo del 63">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ilustracion-del-nuevo-sistema" class="md-nav__link">
+    Ilustración del nuevo sistema
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#modelo-del-55-vs-63" class="md-nav__link">
+    Modelo del 55 vs 63
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ejemplo-numerico" class="md-nav__link">
+    Ejemplo numérico
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#modelo-del-77-miller" class="md-nav__link">
+    Modelo del 77 (Miller)
+  </a>
+  
+    <nav class="md-nav" aria-label="Modelo del 77 (Miller)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ejemplo" class="md-nav__link">
+    Ejemplo
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -463,6 +551,68 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#modelo-del-63" class="md-nav__link">
+    Modelo del 63
+  </a>
+  
+    <nav class="md-nav" aria-label="Modelo del 63">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ilustracion-del-nuevo-sistema" class="md-nav__link">
+    Ilustración del nuevo sistema
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#modelo-del-55-vs-63" class="md-nav__link">
+    Modelo del 55 vs 63
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ejemplo-numerico" class="md-nav__link">
+    Ejemplo numérico
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#modelo-del-77-miller" class="md-nav__link">
+    Modelo del 77 (Miller)
+  </a>
+  
+    <nav class="md-nav" aria-label="Modelo del 77 (Miller)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ejemplo" class="md-nav__link">
+    Ejemplo
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -491,10 +641,83 @@
 <li>Estado (Agencia Tributaria) <code>(X-rD)t</code> <span class="critic comment">los intereses de la deuda son deducibles</span></li>
 <li>Accionistas. <code>X-rD-(X-rD)t = (X-rD)(1-t)</code></li>
 </ol>
-<div class="admonition example">
-<p class="admonition-title">Example</p>
+<h2 id="modelo-del-63">Modelo del 63<a class="headerlink" href="#modelo-del-63" title="Permanent link">🔗</a></h2>
+<h3 id="ilustracion-del-nuevo-sistema">Ilustración del nuevo sistema<a class="headerlink" href="#ilustracion-del-nuevo-sistema" title="Permanent link">🔗</a></h3>
 <p><img alt="img" src="../../images/tema-3/ejemplo-apartado-1.png" /></p>
-<p><code>L</code> es la empresa que tiene deuda (<em>Leverage</em>) y <code>U</code> la empresa que <strong>no</strong> tiene deuda.</p>
+<ul>
+<li><code>L</code> es la empresa que tiene deuda (<em>Leverage</em>) y <code>U</code> la empresa que <strong>no</strong> tiene deuda.</li>
+<li><code>X(1-t)</code> es el <strong>beneficio ajustado fiscalmente</strong></li>
+<li><code>rDt</code> es el <strong>ahorro impositivo</strong> (lo que la empresa se ahorra por haber emitido deuda)</li>
+</ul>
+<p><img alt="img" src="../../images/tema-3/ejemplo-apartado-1-continuacion.png" /></p>
+<p>Las rentas ciertas se actualizan a una tasa <span class="arithmatex">\(r\)</span> y las inciertas se actualizan a <span class="arithmatex">\(\rho_k^t\)</span></p>
+<p>V<sub>L</sub> = V<sub>U</sub> + Valor actual del Ahorro Impositivo</p>
+<p><img alt="img" src="../../images/tema-3/nuevo-coste-del-capital-de-una-empresa-endeudada.png" /></p>
+<h3 id="modelo-del-55-vs-63"><code>Modelo del 55 vs 63</code><a class="headerlink" href="#modelo-del-55-vs-63" title="Permanent link">🔗</a></h3>
+<p class="magenta"><strong>IMPORTANTE: <abbr title="Modigliani y Miller">MM</abbr> rompen con su modelo del 58, ya que decían que el valor de las empresas era independiente de su financiación, y en este ejemplo vemos que la empresa con deuda tiene más valor que la empresa sin deuda.</strong></p>
+<p><img alt="img" src="../../images/tema-3/1-ahorro-impositivo.png" /></p>
+<ul>
+<li>No hay un valor del endeudamiento que maximize el valor de la empresa</li>
+<li><span class="arithmatex">\(V_L=V_U\)</span> es el modelo del <code>55</code></li>
+<li><span class="arithmatex">\(V_L=V_U+Dt\)</span> es el modelo del <code>63</code></li>
+</ul>
+<p><mark>El modelo del 63 valora más a las empresas endeudadas que las no endeudadas</mark></p>
+<figure>
+  <img src="../../images/tema-3/1-ahorro-impositivo-2.png" />
+  <figcaption>La tasa de actualización disminuye con `D`</figcaption>
+</figure>
+
+<h3 id="ejemplo-numerico">Ejemplo numérico<a class="headerlink" href="#ejemplo-numerico" title="Permanent link">🔗</a></h3>
+<p><img alt="img" src="../../images/tema-3/1-otro-ejemplo-numerico.png" />
+<img alt="img" src="../../images/tema-3/1-otro-ejemplo-numerico-p2.png" /></p>
+<ul>
+<li>La estructura de capital es relevante. Cuanto más endeudamiento el valor de la empresa será mayor.</li>
+</ul>
+<div class="admonition question">
+<p class="admonition-title">¿Es bueno aumentar excesivamente la deuda para aumentar el valor de la empresa?</p>
+<p>Las empresas no aumentan su deuda hasta el infinito, ya que al aumentar la deuda aumentan los <strong>costes de insolvencia</strong>.</p>
+</div>
+<h2 id="modelo-del-77-miller">Modelo del 77 (Miller)<a class="headerlink" href="#modelo-del-77-miller" title="Permanent link">🔗</a></h2>
+<p><strong>El modelo del 63 no incorporaba el IRPF (que afecta a los inversores).</strong></p>
+<p>Denominación:</p>
+<ul>
+<li><span class="arithmatex">\(t_{ps}\)</span>: tipo de gravámen marginal sobre los rendimientos de las acciones (<mark>propios</mark>)</li>
+<li><span class="arithmatex">\(t_{pd}\)</span>: tipo de gravámen marginal sobre los rendimientos de la deuda (<mark>ajenos</mark>)</li>
+<li><span class="arithmatex">\(t_{pd}&gt;t_{ps}\)</span></li>
+</ul>
+<h3 id="ejemplo">Ejemplo<a class="headerlink" href="#ejemplo" title="Permanent link">🔗</a></h3>
+<p>Como siempre, <code>U</code> es la empresa <strong>sin</strong> deuda y <code>L</code> es la empresa <strong>con</strong> deuda.</p>
+<p><img alt="img" src="../../images/tema-3/modelo-77-ej.png" /></p>
+<p class="red"><strong>Notas:</strong></p>
+<dl>
+<dt><span class="arithmatex">\(t_{ps}\)</span></dt>
+<dd>Es el IPRF que pagan los accionistas al recibir el diviendo</dd>
+<dt><span class="arithmatex">\(t_{pd}\)</span></dt>
+<dd>Creo que es el IRPF que tienen que pagar los propietarios de la deuda al recibir los intereses? No le veo mucho sentido...</dd>
+</dl>
+<p>Al incorporar el IRPF, el ahorro impositivo queda:</p>
+<div class="arithmatex">\[AI=rD[(q-t_{pd})-(1-t(1-t)(1-t_{ps}))]\]</div>
+<p>Calculamos <span class="arithmatex">\(V_L\)</span> tras actualizar el ahorro impositivo:</p>
+<div class="arithmatex">\[V_L=V_U+D\left[1-\dfrac{(1-t)(1-t_{ps})}{1-t_{pd}}\right]\]</div>
+<ul>
+<li>Si <span class="arithmatex">\(t_{ps}=t_{pd}\)</span> → <span class="arithmatex">\(VA(AI)=Dt\)</span></li>
+<li>Si <span class="arithmatex">\(t_{ps}&gt;t_{pd}\)</span> → <span class="twemoji red"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"/></svg></span><span class="arithmatex">\(VA(AI)\)</span></li>
+<li>Si <span class="arithmatex">\(t_{ps}&lt;t_{pd}\)</span> → <span class="twemoji green"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"/></svg></span><span class="arithmatex">\(VA(AI)\)</span></li>
+<li>Si <span class="arithmatex">\((1-t)(t-t_{ps}&gt;(1-t_{pd})\)</span> → <span class="arithmatex">\(VA(AI)&lt;0\)</span> → <span class="red"><strong>La empresa con deuda vale menos!!!</strong></span></li>
+</ul>
+<p>En equilibrio:</p>
+<div class="arithmatex">\[(1- t_{pd})=(1- t)(1- t_{ps})\]</div>
+<dl>
+<dt><code>Hipótesis</code></dt>
+<dd>Hay un volumend e deuda óptimo (que hace que la estructura financiera sea irrelevante)
+Importancia de la estructura de propiedad.</dd>
+<dt><code>Truco</code></dt>
+<dd>Al objeto de hacer máximo el valor de los impuestos ahorrados y maximizar la renta total disponible para los inversores la empresa va a ofrecer sus bonos (obligaciones) a instituciones y/o personas exentas de tributar en el IRPF o con bajos niveles de renta (Hacienda les hace pagar poco).<br>
+Después ofrecería acciones a instituciones y/o personas exentas de tributar en el IRPF o con bajos niveles de renta.</dd>
+</dl>
+<div class="admonition quote">
+<p class="admonition-title">Quote</p>
+<p>Al tener en cuenta conjuntamente <code>IS</code> e <code>IRPF</code> existirá un ratio óptimo para el sistema empresarial en su conjunto, no para cada empresa en particular.</p>
 </div>
                 
                   
@@ -504,7 +727,7 @@
 <div class="md-source-date">
   <small>
     
-      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">March 21, 2021</span>
+      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">March 22, 2021</span>
     
   </small>
 </div>
@@ -526,7 +749,7 @@
   
     <nav class="md-footer__inner md-grid" aria-label="Footer">
       
-        <a href="../" class="md-footer__link md-footer__link--prev" rel="prev">
+        <a href="../tldr/" class="md-footer__link md-footer__link--prev" rel="prev">
           <div class="md-footer__button md-icon">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
           </div>
@@ -535,7 +758,7 @@
               <span class="md-footer__direction">
                 Previous
               </span>
-              Índice
+              TL;DR
             </div>
           </div>
         </a>
