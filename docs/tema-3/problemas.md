@@ -14,7 +14,7 @@
     3. Si `EXCELSA` tuviese en cuenta el efecto conjunto de los impuestos de sociedades y sobre la renta de las personas físicas, ¿cómo habría que modificar los cálculos efectuados en el apartado anterior?
     4. ¿Para qué tipo marginal de gravamen sobre los rendimientos del capital-obligaciones sería nulo el valor actual del ahorro impositivo calculado en el apartado anterior? En este caso, ha de suponerse que los demás tipos impositivos son constantes.
 
-### Solución
+### Solución 2
 
 ![img](../images/tema-3/problemas/2/1-a-b.png)
 
@@ -43,3 +43,21 @@ También se sabe que el tipo de gravamen en el impuesto de sociedades es el 30%,
 2. Calcular el valor actual del ahorro impositivo que obtendría la empresa CREN si los intereses fuesen gastos deducibles de la base imponible del impuesto de sociedades.
 3. ¿Cuál sería el valor actual del ahorro impositivo si CREN tuviese en cuenta el efecto conjunto del impuesto de sociedades y del impuesto sobre la renta de las personas físicas?
 4. ¿Para qué tipo marginal de gravamen sobre los rendimientos del capital-obligaciones sería nulo el valor actual del ahorro impositivo calculado en el apartado anterior? Suponga constantes los demás tipos impositivos.
+
+### Solución 3
+
+![img](../images/tema-3/problemas/3/1a.png)
+
+![img](../images/tema-3/problemas/3/1b.png)
+
+<hr>
+
+![img](../images/tema-3/problemas/3/2.png)
+
+<hr>
+
+![img](../images/tema-3/problemas/3/3.png)
+
+<hr>
+
+![img](../images/tema-3/problemas/3/4.png)
