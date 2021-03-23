@@ -171,3 +171,37 @@ $$VA(CQ)=\left(-\dfrac{D}{2\cdot10^6}+\dfrac{D^2}{6\cdot10^6}\right)$$
 2. ¿Cuál es el mínimo coste de capital que puede alcanzar la empresa?
 3. Suponga ahora que, independientemente de los resultados anteriores, la empresa ha decidido pedir prestado un millón de euros. Si omitiéramos el efecto de los costes de quiebra, ¿cuál sería el valor de la empresa y el coste de los fondos propios?
 4. Considere ahora el efecto conjunto del IS y del IRPF. Si los tipos de gravamen de los rendimientos de las acciones y de la deuda en este último impuesto son 15% y 30%, ¿cuál sería el valor de la empresa? Justifique las diferencias con los resultados del apartado anterior.
+
+### Solución 8
+
+![img](../images/tema-3/problemas/8/1.png)
+
+<hr>
+
+![img](../images/tema-3/problemas/8/2-3.png)
+
+<hr>
+
+![img](../images/tema-3/problemas/8/4.png)
+
+## `Problema 9 - Aries y Libra`
+
+De la información publicada al término del ejercicio económico sobre las empresas Aries, S.A. y Libra, S.A., pertenecientes a la misma clase de riesgo, conocemos los siguientes datos:
+
+| Valores en euros        |  Aries  |  Libra  |
+| ----------------------- | :-----: | :-----: |
+| Nº acciones             |  1.500  |  1.500  |
+| Nominal de las acciones |   800   |   500   |
+| Cotización              |  250%   |  200%   |
+| Deuda                   |    -    |   ¿?    |
+| Intereses               |    -    | 120.000 |
+| BAII                    | 600.000 | 700.000 |
+
+Sabemos también que ==el mercado de capitales se encuentra en equilibrio== y que el tipo impositivo del impuesto de sociedades es del 40%. La deuda utilizada por Libra genera una probabilidad de insolvencia que es anticipada por los inversores en el mercado y cuyo valor actual está compuesto por unos costes fijos de 80.000 euros y por unos costes variables que corresponden a la expresión (D2/12.000.000), siendo D el importe de la deuda emitida. Esos costes se aplican únicamente cuando el ratio de deuda sobre el valor de mercado de los capitales propios supera el 25%, siendo nulos en caso contrario. Con dicha información:
+
+1. Determine el ratio de endeudamiento de Libra, sabiendo que sus directivos siguen una estrategia de maximización del valor conjunto de deuda y capitales propios.
+2. Especifique en qué medida cabría modificar la conclusión del apartado anterior si el importe del valor actual de los costes de quiebra fuese únicamente válido para ratios de endeudamiento superiores a 50%, siendo nulo en caso contrario.
+
+### Solución 9
+
+![img](../images/tema-3/problemas/9/1.png)
