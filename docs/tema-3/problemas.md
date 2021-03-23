@@ -100,3 +100,39 @@ Con esta información determine:
 <br>
 
 ![img](../images/tema-3/problemas/4/7-8-9.png)
+
+## `Problema 5 - Peñalara (Junio 2018)`
+
+Peñalara, S.A. es una empresa española de naturaleza familiar cuyas acciones y deuda están valoradas en 3’1 y 1’5 millones de euros, respectivamente. En este valor se ha tenido en cuenta que el tipo de gravamen del impuesto de sociedades (IS) es el 25%. El tipo de interés de la deuda (que cotiza a la par) es el 7% y el beneficio bruto es de medio millón de euros.
+
+1. ¿Cuál es el coste de capital de la empresa?
+2. Considere ahora el efecto conjunto del IS y del IRPF. Si en este último impuesto los tipos de gravamen de los rendimientos de las acciones y de la deuda son 18% y 24%, respectivamente, ¿cuál será el valor de la empresa? Justifique este resultado comparándolo con el valor inicial de la empresa.
+3. ¿Cuál sería la rentabilidad de los accionistas en este último caso?
+
+### Solución 5
+
+![img](../images/tema-3/problemas/5/1-2.png)
+
+<hr>
+
+![img](../images/tema-3/problemas/5/3.png)
+
+## `Problema 6 - Pego y Jara`
+
+Pego y Jara son dos empresas del mismo sector que se puede considerar que se encuentra en equilibrio: madereras dedicadas a la explotación y comercialización de la madera en diversos estados de transformación para el abastecimiento de otras industrias. En los últimos años, el auge del sector de la construcción ha dado lugar a que su línea de actividad principal sea la producción y venta de palets, que se utilizan para el transporte de diversos tipos de materiales de construcción.
+
+El desarrollo de esta actividad ha dado lugar a la realización de diversas inversiones cuya financiación ha estado parcialmente basada en el endeudamiento. Ahora bien, la intensidad en el empleo de deuda es diferente en ambas empresas y, por tanto, diferente también el beneficio fiscal que obtienen. Actualmente, tras considerar las ventajas fiscales, los ratios de endeudamiento financiero (deuda / recursos propios) ascienden al 25% en la empresa PEGO y el 100% en la empresa JARA. El tipo de gravamen del Impuesto de Sociedades se sitúa en el 30%.
+
+El bajo nivel de deuda y la capacidad de autofinanciar sus operaciones proporcionan a PEGO la consideración de una de las empresas más solventes del sector. De ahí que la calificación de su deuda sea muy elevada y la rentabilidad de sus obligacionistas se sitúe en el 6,5%, un 1,5% superior a la del activo libre de riesgo. Actualmente, el valor de mercado de la empresa PEGO es 75.000 millones de euros.
+La política más intensiva en el uso de financiación ajena de JARA respondió principalmente al objetivo de deducir gastos financieros y apropiarse de las ventajas fiscales. El mayor riesgo asociado a las obligaciones emitidas por JARA encuentra reflejo en la rentabilidad ofrecida a sus obligacionistas que asciende al 9%.
+
+Además, el beneficio antes de intereses y de impuestos asciende a 8.460 y 8.160 millones de euros para PEGO y JARA respectivamente.
+
+Con estos datos se le pide:
+
+1. Valor de mercado de los activos, de las acciones y de la deuda de PEGO y JARA.
+2. Coste del capital y coste del capital propio de ambas empresas.
+
+### Solución 6
+
+![img](../images/tema-3/problemas/6/1.png)
