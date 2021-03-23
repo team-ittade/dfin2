@@ -28,14 +28,14 @@
 
 De la lectura de un reciente boletín económico-financiero se desprende la siguiente información respecto a las empresas AVE y CREN que pertenecen a la misma clase de riesgo:
 
-|Valores en euros|AVE|CREN|
-|--|:--:|:--:|
-|Valor nominal de la acción|500|500|
-|Número de acciones|17.000|13.000|
-|Cotización de la acción|3.125|2.125|
-|Valor de mercado de las obligaciones|-|23.200.000|
-|Tipo de interés nominal de las obligaciones|-|0'10|
-|Beneficio neto antes de impuestos|8.500.000|5.812.000|
+| Valores en euros                            |    AVE    |    CREN    |
+| ------------------------------------------- | :-------: | :--------: |
+| Valor nominal de la acción                  |    500    |    500     |
+| Número de acciones                          |  17.000   |   13.000   |
+| Cotización de la acción                     |   3.125   |   2.125    |
+| Valor de mercado de las obligaciones        |     -     | 23.200.000 |
+| Tipo de interés nominal de las obligaciones |     -     |    0'10    |
+| Beneficio neto antes de impuestos           | 8.500.000 | 5.812.000  |
 
 También se sabe que el tipo de gravamen en el impuesto de sociedades es el 30%, y que los tipos sobre los rendimientos del capital-acciones y del capital-obligaciones en el impuesto sobre la renta son, respectivamente, el 15% y el 55%. El beneficio se reparte íntegramente en forma de dividendos y que las obligaciones cotizan a la par. A la vista de tal información, se pide:
 
@@ -61,3 +61,42 @@ También se sabe que el tipo de gravamen en el impuesto de sociedades es el 30%,
 <hr>
 
 ![img](../images/tema-3/problemas/3/4.png)
+
+## `Problema 4 - Eva y Num`
+
+:warning: **El enunciado de este problema tiene algo mal** :warning:<br>
+:octicons-check-24: *Las fotos están bien* :octicons-check-24:
+
+Considere dos empresas (`EVA S.A.` y `NUM S.A.`) pertenecientes a la misma clase de riesgo y que cotizan en un mercado de capitales perfecto en equilibrio. La empresa `EVASA` se financia únicamente con capitales propios y la empresa `NUMSA` se financia al 50% con capitales propios y el resto con deuda cotizada a la par y tipo de interés igual al 5%. Se dispone de la siguiente información (valores en euros):
+
+| Valores en euros                                | `EVASA` | `NUMSA` |
+| ----------------------------------------------- | :-----: | :-----: |
+| Valor nominal de las acciones                   |    6    |   12    |
+| Número de acciones                              |  4.000  |  1.000  |
+| Cotización de la acción                         |    8    |    ?    |
+| Valor de mercado de la deuda                    |    -    |    ?    |
+| Beneficio antes de intereses e impuestos (BAII) |  3.200  |  4.000  |
+
+Con esta información determine:
+
+1. La cotización de la empresa `NUMSA`. Trabaje ahora teniendo en cuenta la existencia de un impuesto sobre la renta societaria del 35%. Tomando como dado el valor de la deuda obtenido en el apartado anterior, calcule:
+2. La cotización de la empresa `NUMSA`.
+3. Coste del capital de `EVASA` y `NUMSA`.
+4. Coste del capital propio de `EVASA` y de `NUMSA`. Considere también la existencia de un impuesto sobre las rentas que perciben los inversores del 30% para los rendimientos de la deuda y del 20% para los rendimientos de las acciones. Se pide:
+5. La cotización de la empresa `NUMSA`.
+6. Coste del capital de `EVASA` y `NUMSA`.
+7. Coste del capital propio de `EVASA` y de `NUMSA`.
+8. Rentabilidad que perciben los inversores de `NUMSA`.
+9. Valor del cambio en el ahorro impositivo generado en la empresa `NUMSA`.
+
+### Solución 4
+
+![img](../images/tema-3/problemas/4/1-2-3.png)
+
+<hr>
+
+![img](../images/tema-3/problemas/4/4-5-6.png)
+
+<br>
+
+![img](../images/tema-3/problemas/4/7-8-9.png)
