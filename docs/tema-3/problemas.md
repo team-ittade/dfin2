@@ -136,3 +136,38 @@ Con estos datos se le pide:
 ### Solución 6
 
 ![img](../images/tema-3/problemas/6/1.png)
+
+<hr>
+
+![img](../images/tema-3/problemas/6/2.png)
+
+## `Problema 7 - Roma`
+
+Roma, S.A. es una empresa cuyos títulos (tanto acciones como obligaciones) se negocian en los mercados de capitales. Su director financiero ha calculado que la relaciónexistente entre el valor de mercado de la empresa en unidades de mil (V) y su ratio de endeudamiento (D/S) puede expresarse como V=2500(D/S)[3-(D/S)].
+
+El beneficio antes de intereses e impuestos del último ejercicio ha sido de 1.125.000 euros. La empresa sigue una política de dividendos consistente en repartir íntegramente sus beneficios. El tipo de interés de la deuda es el 15%. Si suponemos que el beneficio se mantendrá constante durante los próximos años y, bajo las condiciones del planteamiento tradicional de las finanzas,
+
+1. ¿Cuál será la estructura óptima de capital para la empresa?
+2. ¿A cuánto ascenderá el valor de sus acciones?
+3. ¿Cuál sería su coste de capital mínimo?
+4. Si manteniendo constante su estructura de capital Roma, S.A consiguiese aumentar la rentabilidad de la inversión en un 20%, ¿cómo se vería afectada su rentabilidad financiera?
+5. Y, si en el caso anterior, como consecuencia del mayor riesgo de las inversiones, los obligacionistas requiriesen un tipo de interés del 16’5%, ¿cuál sería la rentabilidad por dividendos de los accionistas?
+
+### Solución 7
+
+![img](../images/tema-3/problemas/7/1-2-3.png)
+
+<hr>
+
+![img](../images/tema-3/problemas/7/4-5.png)
+
+## `Problema 8 - Amarillo (Junio 2018)`
+
+Amarillo, S.A. es una empresa mediana financiada exclusivamente con recursos propios valorados en 1’6 millones de euros, y cuyo beneficio bruto es de un cuarto de millón de euros. Tras haber estudiado las ventajas e inconvenientes del endeudamiento, su director financiero ha decidido emitir deuda al 4% para amortizar acciones sin alterar el activo de la empresa. Para tomar esta decisión ha tenido en cuenta que el tipo de gravamen del impuesto de sociedades (IS) es el 25% y que, cuando el valor de la deuda (D) supera el 50% de los fondos propios, aparecen unos costes de quiebra cuyo valor actual viene dado por la siguiente expresión:
+
+$$VA(CQ)=\left(-\dfrac{D}{2\cdot10^6}+\dfrac{D^2}{6\cdot10^6}\right)$$
+
+1. ¿Cuál sería la cantidad óptima de deuda que esta empresa debería utilizar? ¿Cuál sería el valor máximo de la empresa?
+2. ¿Cuál es el mínimo coste de capital que puede alcanzar la empresa?
+3. Suponga ahora que, independientemente de los resultados anteriores, la empresa ha decidido pedir prestado un millón de euros. Si omitiéramos el efecto de los costes de quiebra, ¿cuál sería el valor de la empresa y el coste de los fondos propios?
+4. Considere ahora el efecto conjunto del IS y del IRPF. Si los tipos de gravamen de los rendimientos de las acciones y de la deuda en este último impuesto son 15% y 30%, ¿cuál sería el valor de la empresa? Justifique las diferencias con los resultados del apartado anterior.
