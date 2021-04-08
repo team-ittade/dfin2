@@ -205,3 +205,11 @@ Sabemos también que ==el mercado de capitales se encuentra en equilibrio== y qu
 ### Solución 9
 
 ![img](../images/tema-3/problemas/9/1.png)
+
+<hr>
+
+![img](../images/tema-3/problemas/9/2.png)
+
+<hr>
+
+![img](../images/tema-3/problemas/9/grafico.png)
