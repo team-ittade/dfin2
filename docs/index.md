@@ -1,7 +1,6 @@
 # Dirección Financiera
 
 - Profesor 1: Felix Javier López Iturriaga (flopez@eco.uva.es)
-- [Link webex](https://universidaddevalladolid.webex.com/universidaddevalladolid/j.php?MTID=mb708f9a748c069ed6675fa39a5306374){: .elink}
 - [Guía docente](https://campusvirtual.uva.es/pluginfile.php/1686878/mod_resource/content/1/Guia%20docente%202020-21.pdf){: .elink}
 - [Campus virtual](https://campusvirtual.uva.es/course/view.php?id=34221){: .elink}
 
